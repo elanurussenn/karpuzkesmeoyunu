@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/tumresimler">
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/back.jpg</file>
+        <file>images2/bomba.png</file>
+        <file>images2/bombatikla.png</file>
+        <file>images2/son.jpg</file>
+    </qresource>
+</RCC>
